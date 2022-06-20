@@ -10,30 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68e2391d-48ea-4e2f-a29d-4d72e87f0973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CursoGame_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolinha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inimigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio/gol.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio/menu.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio/set.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio/silence.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/sprite_inimigo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/sprite_person_bola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
